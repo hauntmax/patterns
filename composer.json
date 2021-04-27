@@ -1,0 +1,14 @@
+{
+  "name": "maksim/localhost",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "maksim",
+      "email": "m.kashkin@devspark.ru"
+    }
+  ],
+  "require": {
+  }
+}
